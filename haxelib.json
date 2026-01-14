@@ -1,0 +1,15 @@
+{
+  "name": "js.lib.BigInt",
+  "license": "MIT",
+  "tags": [
+    "js"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "back2dos"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "url": "https://github.com/back2dos/js.lib.BigInt/",
+  "dependencies": {}
+}
